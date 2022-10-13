@@ -57,6 +57,7 @@ public class MainActivity extends AppCompatActivity {
 
     //Creating Data class
 
+
     public class Data{
 
         String nameChar;
